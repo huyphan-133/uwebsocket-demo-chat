@@ -1,0 +1,12 @@
+
+# Draw application using uwebsocketjs
+
+## Run server with load balancer
+
+```
+docker compose up
+```
+
+## Run client
+Open app/client.html in browers in multiple tab and enjoy it ^^
+
